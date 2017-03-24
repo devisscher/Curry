@@ -15,5 +15,6 @@ Curry Chicken
 - [x] 2 skinless, boneless chicken breast halves - cut into bite-size pieces(Thomas)
 - [ ] 1 tablespoon tomato paste
 - [ ] 1 cup plain yogurt
+- [ ] 1 large can cocconut milk
 - [x] 1/2 lemon, juiced (Thomas)
 - [x] 1/2 teaspoon cayenne pepper (Thomas)
