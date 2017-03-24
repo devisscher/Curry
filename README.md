@@ -2,8 +2,8 @@
 Curry Chicken
 - [ ] 3 tablespoons olive oil
 - [x] 1 small onion, chopped (Thomas)
-- [x] 1 carrot, cubes
-- [x] 1 Potatoe, cubes
+- [x] 1 carrot, cubes (Thomas)
+- [ ] 1 Potatoe, cubes
 - [x] 2 cloves garlic, minced (Thomas)
 - [x] 3 tablespoons curry powder (Thomas)
 - [ ] 1 teaspoon ground cinnamon
