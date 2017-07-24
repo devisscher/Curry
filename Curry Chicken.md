@@ -1,5 +1,5 @@
-# Curry
-Curry Chicken
+# Curry Chicken
+
 - [ ] 3 tablespoons olive oil
 - [x] 1 small onion, chopped (Thomas)
 - [x] 1 carrot, cubes (Thomas)
